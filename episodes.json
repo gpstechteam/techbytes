@@ -1,4 +1,9 @@
 {
   "episodes": [
+    {"title": "Azure", "file": "01-Azure"}
+,
+    {"title": "AI", "file": "AI"}
+,
+    {"title": "Foundry", "file": "Foundry.mp3"}
   ]
 }
